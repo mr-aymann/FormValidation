@@ -1,4 +1,3 @@
-import useForm from "./useForm";
 import Cards from "react-credit-cards";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./payment.css";
